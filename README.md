@@ -32,7 +32,10 @@ Main features:
 * external mail provider integration
 * Entity Framework Core persistence
 * Swagger/OpenAPI documentation
+* unit tests for application services and business logic
 * Clean Architecture-inspired structure
+
+Testing: xUnit • NSubstitute • FluentAssertions • Coverlet
 
 Technologies: C#, .NET, ASP.NET Core Web API, Entity Framework Core, JWT, Swagger, SQL
 
